@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-To Know heart disease prediction is there are not
+To predict whether a person is having heart disease or not
